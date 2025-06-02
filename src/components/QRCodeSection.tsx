@@ -42,8 +42,8 @@ const paymentMethods: PaymentMethod[] = [
 ];
 
 const mlbbInfo = {
-  id: '1836849702',
-  serverID: '18860'
+  id: '223498332',
+  serverID: '9189'
 };
 
 const QRCodeSection: React.FC = () => {
