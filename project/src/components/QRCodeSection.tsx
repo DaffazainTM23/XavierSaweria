@@ -127,8 +127,8 @@ const QRCodeSection: React.FC = () => {
                 <div className="space-y-4">
                   {[
                     { amount: '10K', reward: 'Jasa Gendong 1 Game' },
-                    { amount: '15K', reward: 'Mabar 1 Game' },
-                    { amount: '50K', reward: 'Mabar VIP - End Live' }
+                    { amount: '5K', reward: 'Mabar 1 Game' },
+                    { amount: '20K', reward: 'Mabar VIP - End Live' }
                   ].map((tier, index) => (
                     <div 
                       key={index}
